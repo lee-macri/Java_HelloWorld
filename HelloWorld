@@ -1,3 +1,5 @@
+The following is a Hello World program written in the Java programming language. What do you think it does?
+
 public class HelloWorld
 {
   public static void main(String[] args)
@@ -5,3 +7,7 @@ public class HelloWorld
     System.out.println("Hello World!");
   }
 }
+
+Have a close look at it. What questions does it make you think of? Is there anything that is confusing? What parts can you understand, if any?
+
+Make a note of any questions that arise so you can ask your teacher.
